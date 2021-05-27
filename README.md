@@ -1,0 +1,1 @@
+## this is a eStore project with PERN stack usage ##
